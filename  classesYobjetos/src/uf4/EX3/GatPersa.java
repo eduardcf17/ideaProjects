@@ -24,7 +24,7 @@ public class GatPersa {
         }else {return false;}
     }
     public boolean estaAssegut(){
-        if(this.estats.equalsIgnoreCase("false")){
+        if(this.estats.equalsIgnoreCase("assegut")){
             return true;
         }else {
             return false;
@@ -37,6 +37,18 @@ public class GatPersa {
         }else{
             return false;
         }
+    }
+    public void aixecat(){
+        this.estats="dret";
+        System.out.println("El gat s'aixecat");
+    }
+    public void seu(){
+        this.estats="assegut";
+        System.out.println("El gat s'assegut");
+    }
+    public void estirat(){
+        this.estats="estirat";
+        System.out.println("El gat s'estirat");
     }
 
     public void setVides(int vides) {
