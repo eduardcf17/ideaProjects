@@ -1,0 +1,10 @@
+
+b$squid:AssignmentInSubExpressionCheck".Extract the assignment out of this expression.(áİ±c8í“ô­,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ËÜî—úÿÿÿÿ8í“ô­,
+Jsquid:S1125")Remove the literal "false" boolean value.(¢ğÑ¿şÿÿÿÿ8Ä»èó­,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(›ÅÁõúÿÿÿÿ8âÅşó­,
+lsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(Ù¨á
+Ysquid:UnusedPrivateMethod"*Remove this unused private "estat" method.(ç™¸’şÿÿÿÿ8÷’ô­,
+psquid:S1450"TRemove the "estat" field and declare it as a local variable in the relevant methods.(¬ıÊÓ8ÈÎ”ô­,
