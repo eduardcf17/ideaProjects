@@ -45,6 +45,12 @@ public class hora {
             setSegon(segon);
         }
     }
+    public void  seguent(int sumar){
+        int i;
+        for(i=0;i<sumar;i++){
+            incrementa();
+        }
+    }
     public void incrementa(){
         if(this.segon+1<59){
             this.segon=this.segon+1;
@@ -56,6 +62,30 @@ public class hora {
                 this.minut=0;
                 this.hora=this.hora+1;
             }
+        }
+    }
+    public void decremeta(){
+        if(this.segon-1<=59&&this.segon!=0){
+            this.segon=this.segon-1;
+        }else{
+            if(this.minut>0){
+                this.minut=this.minut-1;
+                this.segon=this.segon+59;
+            }else{
+                if(this.hora>0){
+                    this.hora=this.hora-1;
+                    this.minut=59;
+                    this.segon=59;
+                }
+
+            }
+
+        }
+    }
+    public void decrementa(int segons){
+        int i;
+        for(i=0;i<segons;i++){
+            decremeta();
         }
     }
     public String toString(){
