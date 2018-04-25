@@ -59,7 +59,7 @@ public class hora {
         }
     }
     public String toString(){
-        return String.format("hora --> %d %02d %02d\n",this.hora,this.minut,this.segon);
+         return String.format("%d:%02d:%02d\n",this.hora,this.minut,this.segon);
     }
 }
 

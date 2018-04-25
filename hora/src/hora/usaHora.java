@@ -11,6 +11,6 @@ public class usaHora {
         //System.out.println(h.getHora()+":"+h.getMinut()+":"+h.getSegon());
         h.incrementa();
         //System.out.println(h.getHora()+":"+h.getMinut()+":"+h.getSegon());
-        h.toString();
+       System.out.println (h.toString());
     }
 }

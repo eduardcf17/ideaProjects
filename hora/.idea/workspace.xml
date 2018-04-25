@@ -12,32 +12,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="hora.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="hora.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/hora/hora.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="423">
+            <state relative-caret-position="387">
               <caret line="61" column="39" lean-forward="false" selection-start-line="61" selection-start-column="39" selection-end-line="61" selection-end-column="39" />
               <folding>
-                <element signature="e#129#130#0" expanded="true" />
-                <element signature="e#156#157#0" expanded="true" />
-                <element signature="e#185#186#0" expanded="true" />
-                <element signature="e#213#214#0" expanded="true" />
-                <element signature="e#513#514#0" expanded="true" />
-                <element signature="e#547#548#0" expanded="true" />
-                <element signature="e#576#577#0" expanded="true" />
-                <element signature="e#604#605#0" expanded="true" />
                 <element signature="e#1246#1247#0" expanded="true" />
-                <element signature="e#1341#1342#0" expanded="true" />
+                <element signature="e#1333#1334#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="usaHora.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="usaHora.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/hora/usaHora.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="2" lean-forward="true" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="2" />
+            <state relative-caret-position="234">
+              <caret line="13" column="41" lean-forward="false" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
               <folding />
             </state>
           </provider>
@@ -85,7 +77,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -109,8 +101,8 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="AndroidView" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="RunDashboard">
@@ -251,7 +243,7 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297414" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -291,16 +283,8 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#129#130#0" expanded="true" />
-            <element signature="e#156#157#0" expanded="true" />
-            <element signature="e#185#186#0" expanded="true" />
-            <element signature="e#213#214#0" expanded="true" />
-            <element signature="e#513#514#0" expanded="true" />
-            <element signature="e#547#548#0" expanded="true" />
-            <element signature="e#576#577#0" expanded="true" />
-            <element signature="e#604#605#0" expanded="true" />
             <element signature="e#1246#1247#0" expanded="true" />
-            <element signature="e#1341#1342#0" expanded="true" />
+            <element signature="e#1333#1334#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -315,20 +299,31 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/hora/hora.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="423">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#1246#1247#0" expanded="true" />
+            <element signature="e#1333#1334#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hora/hora.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="387">
           <caret line="61" column="39" lean-forward="false" selection-start-line="61" selection-start-column="39" selection-end-line="61" selection-end-column="39" />
           <folding>
-            <element signature="e#129#130#0" expanded="true" />
-            <element signature="e#156#157#0" expanded="true" />
-            <element signature="e#185#186#0" expanded="true" />
-            <element signature="e#213#214#0" expanded="true" />
-            <element signature="e#513#514#0" expanded="true" />
-            <element signature="e#547#548#0" expanded="true" />
-            <element signature="e#576#577#0" expanded="true" />
-            <element signature="e#604#605#0" expanded="true" />
             <element signature="e#1246#1247#0" expanded="true" />
-            <element signature="e#1341#1342#0" expanded="true" />
+            <element signature="e#1333#1334#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hora/usaHora.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="41" lean-forward="false" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
+          <folding />
         </state>
       </provider>
     </entry>
