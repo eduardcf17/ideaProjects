@@ -107,4 +107,10 @@ public class CEmpleat {
 
     }
 
+    @Override
+    public String toString() {
+        return String.format("El teu nom es: "+this.Nom+" "+this.PrimerCognom+" "+this.SegonCognom+" y el teu sali es "+this.Salari);
+
+    }
+
 }
