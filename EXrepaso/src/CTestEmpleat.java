@@ -12,5 +12,6 @@ public class CTestEmpleat {
     System.out.println(segonEmpleat.getNombreFills()+" "+segonEmpleat.getSalari());
     System.out.println(copia.toString());
     System.out.println(segonEmpleat.toString());
+
     }
 }
