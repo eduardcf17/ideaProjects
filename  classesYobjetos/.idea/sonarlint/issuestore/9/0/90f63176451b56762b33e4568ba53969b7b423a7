@@ -1,0 +1,14 @@
+
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ıšÎõ8”ƒÿ«,
+bsquid:S1126"AReplace this if-then-else statement by a single return statement.(Õ±èÌúÿÿÿÿ8ÂäÕ«,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÉĞíùÿÿÿÿ8”ƒÿ«,
+rsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(¶ëüûıÿÿÿÿ
+isquid:S1192"HDefine a constant instead of duplicating this literal "assegut" 4 times.(¦ÆÛùşÿÿÿÿ8«Î’ÿ«,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(¨Û­ßşÿÿÿÿ8³äŠÿ«,
+]squid:S1126"AReplace this if-then-else statement by a single return statement.(ÆÊ²­8ÉŒãÕ«,
+isquid:S1192"HDefine a constant instead of duplicating this literal "estirat" 3 times.(Õ±èÌúÿÿÿÿ8éİ“ÿ«,
+]squid:S1126"AReplace this if-then-else statement by a single return statement.(çù‰¾8æØáÕ«,
+]squid:S1126"AReplace this if-then-else statement by a single return statement.(ˆß¡Â8á‰²Õ«,
