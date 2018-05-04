@@ -19,8 +19,13 @@ public class GatPersa {
         }
     }
 
+<<<<<<< HEAD
     private void estat(){
         if(this.estat == "aixecat"){
+=======
+    private String estat(){
+        if(this.estat="aixecat"){
+>>>>>>> 5d6d8004d6a59c01600424dc57e332cccac840e8
             System.out.println("aixecat");
         }
     }

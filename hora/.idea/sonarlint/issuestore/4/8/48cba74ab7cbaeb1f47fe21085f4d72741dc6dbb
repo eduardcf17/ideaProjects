@@ -1,4 +1,5 @@
 
+<<<<<<< HEAD
 csquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(™‰Ž–
 gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(œˆ©Õ8¾œÂí¯,
 gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(œˆ©Õ8½ÀÂí¯,
@@ -6,3 +7,12 @@ lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should 
 lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(£Ó´äþÿÿÿÿ8ÊÌÎ¡®,
 Y
 squid:S106"9Replace this use of System.out or System.err by a logger.(±§¥Šýÿÿÿÿ8Ñžšë¯,
+=======
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(œˆ©Õ8¾œÂí¯,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(£Ó´äþÿÿÿÿ8ÊÌÎ¡®,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(±§¥Šýÿÿÿÿ8Ñžšë¯,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(œˆ©Õ8½ÀÂí¯,
+csquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(™‰Ž–
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(£Ó´äþÿÿÿÿ8è—Î¡®,
+>>>>>>> 5d6d8004d6a59c01600424dc57e332cccac840e8
