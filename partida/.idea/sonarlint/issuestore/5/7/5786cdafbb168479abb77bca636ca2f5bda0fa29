@@ -1,0 +1,8 @@
+
+bsquid:S1126"AReplace this if-then-else statement by a single return statement.(ëûó£ùÿÿÿÿ8Ã²ø¯´,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(‡¥à‰8À©€°´,
+csquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(±ÁÆÆ
+msquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(Å¦Ûe8¢ÍŽ°´,
+Isquid:S1125"(Remove the literal "true" boolean value.(á¨÷˜ýÿÿÿÿ8èÑþ¯´,
+1squid:S1220""Move this file to a named package.

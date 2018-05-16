@@ -1,15 +1,15 @@
 
-nsquid:S00116"QRename this field "Salari" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿ„É©8–Ü¾²,
-tsquid:S00116"XRename this field "DataNaixement" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éö¯[8–Ü¾²,
-Isquid:S1172"-Remove this unused method parameter "salari".(½ÄÊì8›èì²,
-^squid:S00107"AConstructor has 8 parameters, which is greater than 7 authorized.(½ÄÊì8˜³à²,
-vsquid:S00116"TRename this field "Categoria" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ó¤Ä­üÿÿÿÿ8–Ü¾²,
+rsquid:S00116"URename this field "EstatCivil" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛÓ€8–Ü¾²,
 psquid:S00116"NRename this field "Nom" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äğÇúúÿÿÿÿ8–Ü¾²,
-ssquid:S00116"VRename this field "SegonCognom" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄÄÍ§8–Ü¾²,
 ‡"squid:ClassVariableVisibilityCheck"OMake Nom a static final constant or non-public and provide accessors if needed.(äğÇúúÿÿÿÿ8–Ü¾²,
+nsquid:S00116"QRename this field "Salari" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿ„É©8–Ü¾²,
+Isquid:S1172"-Remove this unused method parameter "salari".(½ÄÊì8›èì²,
+ysquid:S00116"WRename this field "PrimerCognom" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›…ïıÿÿÿÿ8–Ü¾²,
+1squid:S1220""Move this file to a named package.
+^squid:S00107"AConstructor has 8 parameters, which is greater than 7 authorized.(½ÄÊì8˜³à²,
 ]squid:S3457"AFormat specifiers should be used instead of string concatenation.(†¤ÖÅ8Æ‘˜·²,
 ssquid:S00116"VRename this field "NombreFills" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÅÜºï8–Ü¾²,
+ssquid:S00116"VRename this field "SegonCognom" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄÄÍ§8–Ü¾²,
 €squid:S1488"dImmediately return this expression instead of assigning it to the temporary variable "copiaEmpleat".(å¯«8ˆÙ²,
-ysquid:S00116"WRename this field "PrimerCognom" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›…ïıÿÿÿÿ8–Ü¾²,
-rsquid:S00116"URename this field "EstatCivil" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛÓ€8–Ü¾²,
-1squid:S1220""Move this file to a named package.
+tsquid:S00116"XRename this field "DataNaixement" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éö¯[8–Ü¾²,
+vsquid:S00116"TRename this field "Categoria" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ó¤Ä­üÿÿÿÿ8–Ü¾²,
