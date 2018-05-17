@@ -1,6 +1,6 @@
 public class Quadrat implements Figura,Relacions {
-    public int lado;
-    public Quadrat(int lado){
+    public float lado;
+    public Quadrat(float lado){
         this.lado=lado;
     }
     @Override
@@ -9,11 +9,12 @@ public class Quadrat implements Figura,Relacions {
     }
     @Override
     public boolean esMajor(Object b) {
-        Quadrat quadrat = (Quadrat) b;
+
+        Figura figura = (Figura) b;
         float original;
         float convertido;
         original=area();
-        convertido=((Quadrat) b).area();
+        convertido=figura.area();
         if(original>convertido){
             return true;
         }else {
@@ -23,11 +24,11 @@ public class Quadrat implements Figura,Relacions {
 
     @Override
     public boolean esMenor(Object b) {
-        Quadrat quadrat = (Quadrat) b;
+        Figura figura = (Figura) b;
         float original;
         float convertido;
         original=area();
-        convertido=((Quadrat) b).area();
+        convertido=figura.area();
         if(original>=convertido){
             return false;
         }else {
@@ -37,11 +38,11 @@ public class Quadrat implements Figura,Relacions {
 
     @Override
     public boolean esIgual(Object b) {
-        Quadrat quadrat = (Quadrat) b;
+        Figura figura = (Figura) b;
         float original;
         float convertido;
         original=area();
-        convertido=((Quadrat) b).area();
+        convertido=figura.area();
         if(original==convertido){
             return true;
         }else{

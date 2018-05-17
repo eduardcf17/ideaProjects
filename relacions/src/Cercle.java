@@ -3,11 +3,12 @@ public class Cercle implements Figura, Relacions{
 
     @Override
     public boolean esMajor(Object b) {
-        Cercle cercle = (Cercle) b;
+
+        Figura figura = (Figura) b;
         float original;
         float convertido;
         original=area();
-        convertido=((Cercle) b).area();
+        convertido=figura.area();
         if(original>convertido){
             return true;
         }else {
@@ -17,11 +18,11 @@ public class Cercle implements Figura, Relacions{
 
     @Override
     public boolean esMenor(Object b) {
-        Cercle cercle = (Cercle) b;
+        Figura figura = (Figura) b;
         float original;
         float convertido;
         original=area();
-        convertido=((Cercle) b).area();
+        convertido=figura.area();
         if(original>=convertido){
             return false;
         }else {
@@ -31,11 +32,11 @@ public class Cercle implements Figura, Relacions{
 
     @Override
     public boolean esIgual(Object b) {
-        Cercle cercle = (Cercle) b;
+        Figura figura = (Figura) b;
         float original;
         float convertido;
         original=area();
-        convertido=((Cercle) b).area();
+        convertido=figura.area();
         if(original==convertido){
             return true;
         }else{

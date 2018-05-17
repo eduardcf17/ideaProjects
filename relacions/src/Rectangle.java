@@ -4,11 +4,12 @@ public class Rectangle implements Figura,Relacions {
 
     @Override
     public boolean esMajor(Object b) {
-        Rectangle rectangle = (Rectangle) b;
+
+        Figura figura = (Figura) b;
         float original;
         float convertido;
         original=area();
-        convertido=((Rectangle) b).area();
+        convertido=figura.area();
         if(original>convertido){
             return true;
         }else {
@@ -18,11 +19,11 @@ public class Rectangle implements Figura,Relacions {
 
     @Override
     public boolean esMenor(Object b) {
-        Rectangle rectangle = (Rectangle) b;
+        Figura figura = (Figura) b;
         float original;
         float convertido;
         original=area();
-        convertido=((Rectangle) b).area();
+        convertido=figura.area();
         if(original>=convertido){
             return false;
         }else {
@@ -32,14 +33,14 @@ public class Rectangle implements Figura,Relacions {
 
     @Override
     public boolean esIgual(Object b) {
-        Rectangle rectangle = (Rectangle) b;
+        Figura figura = (Figura) b;
         float original;
         float convertido;
         original=area();
-        convertido=((Rectangle) b).area();
+        convertido=figura.area();
         if(original==convertido){
             return true;
-        }else {
+        }else{
             return false;
         }
     }
