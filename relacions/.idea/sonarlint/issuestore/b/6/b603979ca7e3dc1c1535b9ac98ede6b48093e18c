@@ -1,14 +1,14 @@
 
+Usquid:S1854"9Remove this useless assignment to local variable "horaF".(Ûáİ©8äßãÏ¶,
+bsquid:S1126"AReplace this if-then-else statement by a single return statement.(·Ø¬óÿÿÿÿÿ8È˜ĞÏ¶,
+/squid:S1700"Rename field "hora"(Šä¶8„Ø“Ï¶,
+Usquid:S1854"9Remove this useless assignment to local variable "horaF".(Ûáİ©8Š»ÀÏ¶,
 Y
 squid:S106"9Replace this use of System.out or System.err by a logger.(øş¶üÿÿÿÿ8„Ø“Ï¶,
-1squid:S1220""Move this file to a named package.
-Fsquid:S1481"*Remove this unused "horaF" local variable.(Ûáİ©8äßãÏ¶,
 Usquid:S1854"9Remove this useless assignment to local variable "horaF".(Ûáİ©8ÌÓÔÏ¶,
-bsquid:S1126"AReplace this if-then-else statement by a single return statement.(·Ø¬óÿÿÿÿÿ8È˜ĞÏ¶,
 bsquid:S1126"AReplace this if-then-else statement by a single return statement.(è½£äùÿÿÿÿ8ÌÓÔÏ¶,
-Usquid:S1854"9Remove this useless assignment to local variable "horaF".(Ûáİ©8Š»ÀÏ¶,
-Usquid:S1854"9Remove this useless assignment to local variable "horaF".(Ûáİ©8äßãÏ¶,
+Fsquid:S1481"*Remove this unused "horaF" local variable.(Ûáİ©8äßãÏ¶,
 Fsquid:S1481"*Remove this unused "horaF" local variable.(Ûáİ©8åØÆÏ¶,
-Fsquid:S1481"*Remove this unused "horaF" local variable.(Ûáİ©8ÌÓÔÏ¶,
-/squid:S1700"Rename field "hora"(Šä¶8„Ø“Ï¶,
 bsquid:S1126"AReplace this if-then-else statement by a single return statement.(ßñ“¨ÿÿÿÿÿ8äßãÏ¶,
+1squid:S1220""Move this file to a named package.
+Fsquid:S1481"*Remove this unused "horaF" local variable.(Ûáİ©8ÌÓÔÏ¶,

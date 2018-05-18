@@ -1,0 +1,17 @@
+
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ö­ã÷¶,
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8â½‘ø¶,
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÊÇŸø¶,
+`squid:UselessImportCheck"7Remove this unused import 'javax.imageio.IIOException'.(´ÂÏ’8µ¬‹ø¶,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(İã¿‹ùÿÿÿÿ8“†µ÷¶,
+hsquid:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(Âõ–8´¥÷¶,
+esquid:S2147"DCombine this catch with the one at line 22, which has the same body.(¼Ôîàùÿÿÿÿ8Ö­ã÷¶,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(¥©±°ÿÿÿÿÿ8½ù­÷¶,
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(è“²Ãùÿÿÿÿ8½ù­÷¶,
+1squid:S1220""Move this file to a named package.
+Ksquid:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8õù÷¶,
+hsquid:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(·Øî8‰Ûû÷¶,
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8“†µ÷¶,
+`squid:S2147"DCombine this catch with the one at line 22, which has the same body.(ï­£Ä8â½‘ø¶,
