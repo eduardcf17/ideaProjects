@@ -11,15 +11,18 @@ public class NovesExcepcions {
     }
 
     public static boolean multiple10(int numero){
-        if(numero)
+        if(!(numero%10==0)){return true ;
+        }else{
+            throw  new multiplo10("No es multiplo");
+        }
     }
 
 
     public static void main(String[] args) {
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
-        System.out.println("Introdueix un numero");
         while(true) {
             try {
+                System.out.println("Introdueix un numero");
                 String texto = reader.readLine();
                 int numero = Integer.parseInt(texto);
 
@@ -28,8 +31,8 @@ public class NovesExcepcions {
                 System.out.println("Introdueix un numero");
                 texto = reader.readLine();
                 int numero2 = Integer.parseInt(texto);
-                if (rang(numero)) ;
-
+                if (rang(numero2)) ;
+                if(multiple10(numero2));
                 int resultado = numero % numero2;
                 break;
             } catch (IOException e) {
