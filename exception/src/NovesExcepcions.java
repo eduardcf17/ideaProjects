@@ -6,14 +6,14 @@ public class NovesExcepcions {
         if (numero < 100 && numero >= 1) {
             return true;
         } else {
-           throw new foraRang("Fora de rang");
+           throw new ForaIntervalException("Fora de rang");
         }
     }
 
     public static boolean multiple10(int numero){
-        if(!(numero%10==0)){return true ;
+        if(numero%10==0){return true ;
         }else{
-            throw  new multiplo10("No es multiplo");
+            throw  new Mult10Exception("No es multiplo");
         }
     }
 
@@ -34,12 +34,15 @@ public class NovesExcepcions {
                 if (rang(numero2)) ;
                 if(multiple10(numero2));
                 int resultado = numero % numero2;
+                System.out.println("El resultado es: "+resultado);
                 break;
             } catch (IOException e) {
                 e.printStackTrace();
-            } catch (foraRang e) {
+            } catch (ForaIntervalException e) {
                 System.out.println(e.getMessage());
-            } catch (NumberFormatException e) {
+            }catch (Mult10Exception e) {
+                System.out.println(e.getMessage());
+            }catch (NumberFormatException e) {
                 e.printStackTrace();
             }
         }
