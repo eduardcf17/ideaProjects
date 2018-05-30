@@ -3,10 +3,21 @@ public class apostes {
     private String dni;
     private int golsLocals;
     private int golsVisitants;
-    public apostes(String dni, int golsLocals, int golsVisitants) {
+    private String nom;
+
+    public apostes(String dni, int golsLocals, int golsVisitants, String nom) {
         this.dni = dni;
         this.golsLocals = golsLocals;
         this.golsVisitants = golsVisitants;
+        this.nom = nom;
+    }
+
+    public String getNom() {
+        return nom;
+    }
+
+    public void setNom(String nom) {
+        this.nom = nom;
     }
 
     public String getDni() {
